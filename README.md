@@ -1,5 +1,5 @@
 # Garage_System🚘️
-Allows users to  book slot for his car in garage using three Methods📝:
+Allows user to  book slot for his car in garage using three Methods📝:
 1️⃣First Fit selection where the first slot with big enough dimension to host the vehicle
 will be selected
 2️⃣Best Fit selection where the slot with the best dimension match should be used
