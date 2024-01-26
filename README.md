@@ -16,7 +16,7 @@ In the Best Fit selection method, the system prioritizes minimizing wasted space
 Parking Fees Calculation📠:
 To provide transparency and fair charging, the system calculates parking fees during the park-out based on the time-of-stay. The hourly rate for parking varies depending on the selected slot. Users can be confident that they are billed accurately for the time their vehicle occupies a slot.
 
--Admin User 
+-Admin->The Garage System empowers admin users with valuable insights:
 
 1️⃣.Total Income Calculation💲:
 For financial tracking, the system calculates and displays the total income generated. This feature allows admin users to gauge the financial performance of the parking garage over a specified period.
